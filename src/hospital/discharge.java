@@ -4,8 +4,7 @@ public class discharge {
 	
 	@SuppressWarnings("unused")
 	private void sysout() {
-		// TODO Auto-generated method stub
-
+        int s=10;
 	}
 
 }
